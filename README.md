@@ -14,7 +14,13 @@
 
 ## 💻 Projeto
 
-Aplicativo desenvolvido no desafio do curso Ignite da Rocketseat
+Savepass é um aplicativo desenvolvido no desafio do curso Ignite da Rocketseat
+
+## 🚀 Tecnologias utilizadas
+
+- [Expo CLI](https://expo.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 
 ### Instalação
 
